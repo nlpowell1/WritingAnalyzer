@@ -1,4 +1,4 @@
-# Statistical Analysis of Writing 
+# Writing Analysis
 ## Introduction
 
 For my project, I decided to create a tool that analyzes writing level and style using the Flesch-Kincaid index, average sentence length and the standard deviation within that, as well as repetitiveness of word use. When I was in high school, I had an English teacher tell my class that a good way to keep a reader engaged was to make sure the sentences in your writing varied in length and that you did not start too many of your sentences with the same word. In order to do this in his class, we would manually count the words of our sentences when editing as well as go through our work and circle the first word to make sure we were not being too repetitive. To this day I still use this technique, as I find it is an excellent and easy way to imrove my writing. So, I thought it would be a great project idea to create a program that would speed up the process!
